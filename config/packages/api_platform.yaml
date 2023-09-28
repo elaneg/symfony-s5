@@ -1,6 +1,6 @@
 api_platform:
+    CORS_ALLOW_ORIGIN: *
     graphql:
-        CORS_ALLOW_ORIGIN: *
         enabled: true
     title: Hello API Platform
     version: 1.0.0
