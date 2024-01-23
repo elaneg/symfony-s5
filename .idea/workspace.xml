@@ -1,16 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="MessDetectorOptionsConfiguration">
-    <option name="transferred" value="true" />
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
   </component>
-  <component name="PHPCSFixerOptionsConfiguration">
-    <option name="transferred" value="true" />
+  <component name="ChangeListManager">
+    <list default="true" id="29594ccd-f43c-40c6-b70e-ded0da88c13e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/symfony-s5.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/symfony-s5.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/packages/api_platform.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/packages/api_platform.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="PHPCodeSnifferOptionsConfiguration">
-    <option name="highlightLevel" value="WARNING" />
-    <option name="transferred" value="true" />
+  <component name="ComposerConfigs">
+    <option name="configs">
+      <option value="$PROJECT_DIR$/public/symfony-s5/composer.json" />
+    </option>
   </component>
-  <component name="PhpIncludePathManager">
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\Program Files\PHP8.1\php.exe">
     <include_path>
       <path value="$PROJECT_DIR$/vendor/psr/link" />
       <path value="$PROJECT_DIR$/vendor/psr/event-dispatcher" />
@@ -136,6 +153,11 @@
       <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
       <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
       <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/twig/intl-extra" />
+      <path value="$PROJECT_DIR$/vendor/nelmio/cors-bundle" />
+      <path value="$PROJECT_DIR$/vendor/willdurand/negotiation" />
+      <path value="$PROJECT_DIR$/vendor/api-platform/core" />
+      <path value="$PROJECT_DIR$/vendor/webonyx/graphql-php" />
       <path value="$PROJECT_DIR$/public/symfony-s5/vendor/symfony/messenger" />
       <path value="$PROJECT_DIR$/public/symfony-s5/vendor/symfony/maker-bundle" />
       <path value="$PROJECT_DIR$/public/symfony-s5/vendor/symfony/mailer" />
@@ -270,23 +292,56 @@
       <path value="$PROJECT_DIR$/public/symfony-s5/vendor/symfony/monolog-bundle" />
       <path value="$PROJECT_DIR$/public/symfony-s5/vendor/symfony/monolog-bridge" />
       <path value="$PROJECT_DIR$/public/symfony-s5/vendor/symfony/mime" />
-      <path value="$PROJECT_DIR$/vendor/symfony/stimulus-bundle" />
-      <path value="$PROJECT_DIR$/vendor/symfony/ux-turbo" />
-      <path value="$PROJECT_DIR$/vendor/symfony/orm-pack" />
-      <path value="$PROJECT_DIR$/vendor/symfony/asset-mapper" />
-      <path value="$PROJECT_DIR$/vendor/symfony/serializer-pack" />
-      <path value="$PROJECT_DIR$/vendor/symfony/test-pack" />
-      <path value="$PROJECT_DIR$/vendor/symfony/debug-pack" />
-      <path value="$PROJECT_DIR$/vendor/symfony/webapp-pack" />
-      <path value="$PROJECT_DIR$/vendor/symfony/twig-pack" />
-      <path value="$PROJECT_DIR$/vendor/symfony/profiler-pack" />
     </include_path>
   </component>
-  <component name="PhpProjectSharedConfiguration" php_language_level="8.1" />
-  <component name="PhpStanOptionsConfiguration">
-    <option name="transferred" value="true" />
+  <component name="ProjectId" id="2VtEi9i018QVyCC0MdVVqdNJHIx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PsalmOptionsConfiguration">
-    <option name="transferred" value="true" />
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/laragon/www/symfony-s5&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="phpunit.xml.dist" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner scope="XML" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="29594ccd-f43c-40c6-b70e-ded0da88c13e" name="Changes" comment="" />
+      <created>1695647102647</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695647102647</updated>
+      <workItem from="1695647102925" duration="9283000" />
+      <workItem from="1695708449360" duration="4938000" />
+      <workItem from="1695736144143" duration="4220000" />
+      <workItem from="1695892328029" duration="2518000" />
+      <workItem from="1697459131359" duration="2144000" />
+      <workItem from="1697545489484" duration="3297000" />
+      <workItem from="1697611332252" duration="600000" />
+      <workItem from="1700811977780" duration="616000" />
+      <workItem from="1702624877061" duration="148000" />
+      <workItem from="1705998058999" duration="5490000" />
+      <workItem from="1706023079815" duration="20000" />
+      <workItem from="1706023101603" duration="578000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
